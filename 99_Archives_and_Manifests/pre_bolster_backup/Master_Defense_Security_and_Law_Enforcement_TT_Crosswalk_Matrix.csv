@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+TT-DEF-01,Defense Security and Law Enforcement,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-DEF-02,Defense Security and Law Enforcement,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-DEF-03,Defense Security and Law Enforcement,Climate and coastal vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-DEF-04,Defense Security and Law Enforcement,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-DEF-05,Defense Security and Law Enforcement,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

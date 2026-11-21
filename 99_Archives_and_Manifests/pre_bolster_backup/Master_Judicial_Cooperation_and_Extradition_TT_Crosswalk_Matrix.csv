@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+TT-JUD-01,Judicial Cooperation and Extradition,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-JUD-02,Judicial Cooperation and Extradition,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-JUD-03,Judicial Cooperation and Extradition,Climate and coastal vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-JUD-04,Judicial Cooperation and Extradition,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-JUD-05,Judicial Cooperation and Extradition,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+TT-BAN-01,Banking and Sanctions Compliance,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-BAN-02,Banking and Sanctions Compliance,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-BAN-03,Banking and Sanctions Compliance,Climate and coastal vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-BAN-04,Banking and Sanctions Compliance,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-BAN-05,Banking and Sanctions Compliance,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

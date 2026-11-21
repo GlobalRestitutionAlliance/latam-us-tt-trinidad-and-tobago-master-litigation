@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+TT-MAR-01,Maritime Ports and Logistics,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-MAR-02,Maritime Ports and Logistics,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-MAR-03,Maritime Ports and Logistics,Climate and coastal vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-MAR-04,Maritime Ports and Logistics,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-MAR-05,Maritime Ports and Logistics,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

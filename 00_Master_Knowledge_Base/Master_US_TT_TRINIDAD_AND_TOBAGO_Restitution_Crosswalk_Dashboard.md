@@ -1,10 +1,61 @@
-# Trinidad and Tobago Restitution Crosswalk Dashboard
+# Trinidad and Tobago Master Restitution Crosswalk Dashboard
 
-**Country Key:** US_TT_TRINIDAD_AND_TOBAGO
-**ISO Code:** TT/TTO
-**Historical Arc:** 1962-2026
-**Restitution Pool:** $15.00B
-**Instruments:** 12
+- **ISO:** TT
+- **Planning Pool:** $30,000,000,000 USD (subject to evidentiary validation)
+- **Instruments:** 25
 
-## Primary Judgment
-1962 Independence, British Colony
+## Evidentiary Anchors (High-Level, Public Record)
+
+- Colonial plantation and indenture legacy
+- Oil/gas extraction and economic transition
+- Climate and coastal vulnerability
+
+## Instrument Matrix
+
+| ID | Anchor | Status | Evidence |
+|---|---|---|---|
+| TT-001 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-002 | Oil/gas extraction and economic transition | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-003 | Climate and coastal vulnerability | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-004 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-005 | Oil/gas extraction and economic transition | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-006 | Climate and coastal vulnerability | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-007 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-008 | Oil/gas extraction and economic transition | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-009 | Climate and coastal vulnerability | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-010 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-011 | Oil/gas extraction and economic transition | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-012 | Climate and coastal vulnerability | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-013 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-014 | Oil/gas extraction and economic transition | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-015 | Climate and coastal vulnerability | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-016 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-017 | Oil/gas extraction and economic transition | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-018 | Climate and coastal vulnerability | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-019 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-020 | Oil/gas extraction and economic transition | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-021 | Climate and coastal vulnerability | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-022 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-023 | Oil/gas extraction and economic transition | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-024 | Climate and coastal vulnerability | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| TT-025 | Colonial plantation and indenture legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+
+## Guardrail
+No fabricated citations, docket numbers, or archive IDs. All entries require primary-source verification before filing use.
+
+## Verified Source Citations (PENDING_LEGAL_REVIEW)
+
+Rule: No citation marked VERIFIED without local hashed source artifact and counsel sign-off.
+
+- TT-CIT-0001: UN Digital Library - Search | https://digitallibrary.un.org/search | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_01_UN_Digital_Library_-_Search.html` | sha256=`e3b0c44298fc1c14...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0002: Countries | OHCHR | https://www.ohchr.org/en/countries | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_02_UN_OHCHR_-_Country_Pages_browser.html` | sha256=`49662d4dbf47bb6d...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0003: UN Treaty Body Database | https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/TBSearch.aspx | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_03_UN_Treaty_Body_Database.html` | sha256=`3b917ed1f181b787...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0004: Universal Periodic Review | OHCHR | https://www.ohchr.org/en/hr-bodies/upr/upr-home | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_04_UN_Human_Rights_Council_-_Universal_Periodic_Review_browser.html` | sha256=`cfdbc1bead5f916a...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0005: IACHR :: Country Reports | https://www.oas.org/en/iachr/reports/country.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_05_IACHR_-_Country_Reports_browser.html` | sha256=`4815df1a1007999b...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0006: Annual Reports | https://www.oas.org/en/iachr/reports/ia.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_06_IACHR_-_Annual_Reports_browser.html` | sha256=`f42c6c45b4b7b3f8...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0007: US State Department - Country Reports on Human Rights Practices | https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_07_US_State_Department_-_Country_Reports_on_Human_Rights_Practices.html` | sha256=`1247df151df829bd...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0008: US State Department - Office of the Historian (FRUS) | https://history.state.gov/historicaldocuments | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_08_US_State_Department_-_Office_of_the_Historian_FRUS.html` | sha256=`c948fdff783f2e5f...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0009: NARA - Foreign Affairs Research | https://www.archives.gov/research/foreign-policy | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_09_NARA_-_Foreign_Affairs_Research.html` | sha256=`c4cda55cb948dfd6...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0010: CIA.gov 404 | https://www.cia.gov/reading-room/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_10_CIA_FOIA_Electronic_Reading_Room_browser.html` | sha256=`237c2cfe65f25745...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0011: Library of Congress - Research Guides / Country Studies | https://guides.loc.gov/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_11_Library_of_Congress_-_Research_Guides_Country_Studies.html` | sha256=`5d1e4f72f2884666...` | status=PENDING_LEGAL_REVIEW
+- TT-CIT-0012: Countries | Data | https://data.worldbank.org/country | local=`03_Evidentiary_Exhibits/Immutable_Ledger/TT_12_World_Bank_-_Country_Data_browser.html` | sha256=`97e51424fe833707...` | status=PENDING_LEGAL_REVIEW

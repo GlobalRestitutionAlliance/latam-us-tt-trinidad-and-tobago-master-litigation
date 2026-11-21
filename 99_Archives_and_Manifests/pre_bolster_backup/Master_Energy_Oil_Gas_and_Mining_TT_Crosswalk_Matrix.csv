@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+TT-ENE-01,Energy Oil Gas and Mining,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-ENE-02,Energy Oil Gas and Mining,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-ENE-03,Energy Oil Gas and Mining,Climate and coastal vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-ENE-04,Energy Oil Gas and Mining,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+TT-ENE-05,Energy Oil Gas and Mining,Oil/gas extraction and economic transition,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
