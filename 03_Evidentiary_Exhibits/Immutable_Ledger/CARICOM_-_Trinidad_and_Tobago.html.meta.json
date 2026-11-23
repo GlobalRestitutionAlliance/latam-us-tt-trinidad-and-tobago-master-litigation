@@ -1,0 +1,17 @@
+{
+  "url": "https://caricom.org/country_profiles/trinidad-and-tobago/",
+  "final_url": "https://caricom.org/country_profiles/trinidad-and-tobago/",
+  "title": "CARICOM - Trinidad and Tobago",
+  "fetched_at": "2026-11-23T15:34:14.181122Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 346911,
+  "sha256": "9c6bf65cb0b04ab7e08dc851b2ce059749d9e48a58c4dadbc7f551fbe157de24",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
